@@ -11,4 +11,7 @@ O dashboard pode ser acessado no link a seguir:
 
 https://app.powerbi.com/view?r=eyJrIjoiODRiN2ExMTYtZmYzZi00ZjI2LWJjYzYtMjljYzZjM2U1N2MxIiwidCI6IjA2N2Q0YzdmLWRhYWItNDU1YS1hYzA2LWQyOTc2MGJiYjc5YSJ9
 
+<p align="center">
+  <img src="logo/Dashboard - Hermex - img.png">
+</p>
 
