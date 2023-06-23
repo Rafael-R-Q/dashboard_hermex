@@ -1,7 +1,7 @@
-# dashboard_hermex
+# Challenge BI Alura 3° edição - 2° semana
 
 <p align="center">
-  <img src="Logo/Logo_club_do_livro-removebg-preview.png">
+  <img width="350" height="100" src="logo/Hermex logo laranja e azul.png">
 </p>
 
 
