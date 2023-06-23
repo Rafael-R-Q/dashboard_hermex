@@ -1,5 +1,10 @@
 # dashboard_hermex
 
+<p align="center">
+  <img src="Logo/Logo_club_do_livro-removebg-preview.png">
+</p>
+
+
 A Hermex Log é uma empresa de logística fictícia que disponibilizou os dados para análise, referente ao período de 2019 a 2021. O resultado é apresentado em um dashboard, elaborado no software Power BI, com objetivo de apresentar as entregas feitas no prazo e em atraso, os pedidos por estado, a média do estoque por produtos e por ano, a média de tempo das entregas por mês e o número de veículos disponíveis.
 
 O dashboard pode ser acessado no link a seguir:
